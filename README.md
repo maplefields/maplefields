@@ -1,5 +1,5 @@
 👋 Hi, I’m @maplefields.
-I write bad code, and even worse articles.
+I write bad code, and OK articles.
 
 <!---
 maplefields/maplefields is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
